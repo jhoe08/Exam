@@ -1,0 +1,22 @@
+body{
+	background-color: #222222;
+}
+.box-type{
+	max-width: 1220px;
+	margin: auto;
+	background-color: #ffffff;
+}
+header, footer, .section{
+	padding: 0 70px;
+}
+/* Header */
+header .logo img{
+	max-width: 300px;
+	width: 100%;
+}
+/* Content */
+.section{
+	background-color: blue;
+}
+/* Footer */
+

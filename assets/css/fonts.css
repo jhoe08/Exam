@@ -1,0 +1,30 @@
+/* Fonts */
+@font-face {
+    font-family: Gotham Black;
+    font-weight: bold;
+    src: url("assets/fonts/Gotham/Gotham-Black.otf") format("opentype");
+}
+@font-face {
+    font-family: Gotham Bold;
+    src: url("assets/fonts/Gotham/Gotham-Bold.otf") format("opentype");
+}
+@font-face {
+    font-family: Gotham Book;
+    src: url("assets/fonts/Gotham/Gotham-Book.otf") format("opentype");
+}
+@font-face {
+    font-family: Gotham Light;
+    src: url("assets/fonts/Gotham/Gotham-Light.otf") format("opentype");
+}
+@font-face {
+    font-family: Gotham Medium;
+    src: url("assets/fonts/Gotham/Gotham-Medium.otf") format("opentype");
+}
+@font-face {
+    font-family: Gotham Thin;
+    src: url("assets/fonts/Gotham/Gotham-Thin.otf") format("opentype");
+}
+@font-face {
+    font-family: Gotham XLight;
+    src: url("assets/fonts/Gotham/Gotham-XLight.otf") format("opentype");
+}
