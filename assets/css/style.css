@@ -1,5 +1,10 @@
 body{
 	background-color: #222222;
+	font-family: "Gotham Light";
+	font-size: 18px;
+}
+a{
+	color: inherit;
 }
 .box-type{
 	max-width: 1220px;
@@ -13,10 +18,42 @@ header, footer, .section{
 header .logo img{
 	max-width: 300px;
 	width: 100%;
+	vertical-align: sub;
+}
+.logo span{
+	text-transform: uppercase;
+	font-family: "Gotham Bold";
+}
+.guarantee li{
+	font-family: "Gotham Book";
+	font-size: 14px;
 }
 /* Content */
 .section{
 	background-color: blue;
+	padding-top: 30px;
+	color: #ffffff;
+}
+.section.home{
+	background-image: radial-gradient(#3875B8, #1A2569);;
+}
+.page-description{
+	font-family: "Gotham Medium";
+}
+.form-group label{
+	width: 100%;
+	font-family: Gotham medium;
+}
+.form-group input, .form-group select{
+	max-width: 85%;
+	width: 100%;
+	padding: 20px;
+	border-radius: 100px;
+	border: none;
 }
 /* Footer */
 
+/* Widget */
+#ui-id-1{
+	background-color: #ffffff;
+}
