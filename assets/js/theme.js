@@ -10,6 +10,6 @@ $( document ).ready( function(){
     ];
 	
 	$('#zipCity').autocomplete({
-		source: availableTags
+		source: availableTags 
 	});
 });
